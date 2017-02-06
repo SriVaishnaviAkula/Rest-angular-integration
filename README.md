@@ -17,6 +17,8 @@ Then, open eclipse and select "File > import > Maven > Existing Maven Projects >
 Finally, add this project to your Java web container(Ex: tomcat) and run.
 
 # Running the applicatione
-right click on the target folder > Run As > Maven build
-right click on the target folder > Run As > SpringBootApp 
+right click on the target folder > Run As > Maven build 
+
+right click on the target folder > Run As > SpringBootApp
+
 open the browser and give the localhost port /api/signature to see the JSON file
