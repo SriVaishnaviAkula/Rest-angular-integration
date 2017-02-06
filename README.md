@@ -16,7 +16,7 @@ Then, open eclipse and select "File > import > Maven > Existing Maven Projects >
 
 Finally, add this project to your Java web container(Ex: tomcat) and run.
 
-# Running the applicatione
+# Running the application
 right click on the target folder > Run As > Maven build 
 
 right click on the target folder > Run As > SpringBootApp
